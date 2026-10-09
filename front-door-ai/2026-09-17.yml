@@ -7,14 +7,17 @@ front_door_ai:
   probed_at: '2026-09-17'
   host: shepherdinsurance.com
   final_host: www.shepherdinsurance.com
-  ownership: inherited
+  ownership: own
   owner: shepherd
   shares_host_with: null
-  inherited_from: www.shepherdinsurance.com
+  inherited_from: null
+  alias_of: www.shepherdinsurance.com
   verdict: scored
-  score: null
+  score: 1
+  band: 2
+  band_label: trace
   host_score: 1
-  density: null
+  density: 2.87
   words: 348
   tiers:
     agentic: 0
